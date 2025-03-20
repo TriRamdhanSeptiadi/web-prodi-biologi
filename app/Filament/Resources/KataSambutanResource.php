@@ -32,10 +32,9 @@ class KataSambutanResource extends Resource
                 Forms\Components\Select::make('status')
                     ->options([
                         'Kepala Program Studi Biologi' => 'Kepala Program Studi Biologi',
-                        'Dosen' => 'Dosen',
-                        'Staff' => 'Staff',
                     ])
-                    ->reactive()
+                    ->default('Berita')
+                    ->disabled()
                     ->required(),
                 Forms\Components\TextInput::make('nama')->required(),
                 Forms\Components\RichEditor::make('kata_sambutan')
