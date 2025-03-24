@@ -220,7 +220,7 @@
                         <!-- Paragraf -->
                         <p class="w-80 xl-w-90 lg-w-100 mx-auto text-muted fs-15" style="text-align: justify;"
                         data-anime='{ "opacity": [0,1], "translateY": [20, 0], "duration": 600, "delay":400, "easing": "easeOutQuad" }'>
-                            Untuk dapat diterima sebagai mahasiswa Program Studi Teknik Informatika di Universitas Wanita Internasional, calon mahasiswa harus memenuhi persyaratan sebagai berikut:
+                            Untuk dapat diterima sebagai mahasiswa Program Studi Biologi di Universitas Wanita Internasional, calon mahasiswa harus memenuhi persyaratan sebagai berikut:
                         </p>
 
                         <!-- Table with fade-in animation -->

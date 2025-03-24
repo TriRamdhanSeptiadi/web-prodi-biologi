@@ -210,7 +210,7 @@
             <div class="container text-center">
                 <div class="card shadow-lg border-0 rounded-3 overflow-hidden mb-4">
                     <div class="card-body p-4">
-                        <h5 class="text-dark-gray fw-700">Dosen dan Staf Prodi Teknik Informatika</h5>
+                        <h5 class="text-dark-gray fw-700">Dosen dan Staf Prodi Biologi</h5>
                         <div class="row">
                             <div class="col-12 p-md-0">
                             <ul class="blog-classic blog-wrapper grid-loading grid grid-4col xl-grid-4col lg-grid-3col md-grid-2col sm-grid-2col xs-grid-1col gutter-extra-large" 
